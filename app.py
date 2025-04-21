@@ -1,11 +1,3 @@
-import streamlit as st
-import pandas as pd
-import numpy as np
-from sklearn.ensemble import IsolationForest
-from sklearn.preprocessing import StandardScaler
-import matplotlib.pyplot as plt
-import seaborn as sns
-
 st.set_page_config(page_title="Cyber Threat Detection", layout="wide")
 
 st.title("🛡️ Cyber Threat Detection with Isolation Forest")
