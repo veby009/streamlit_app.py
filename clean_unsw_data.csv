@@ -1,0 +1,17 @@
+import pandas as pd
+# Try reading with error handling
+df = pd.read_csv('clean_unsw_data.csv', error_bad_lines=False, warn_bad_lines=True)
+
+Save cleaned version
+df.to_csv('clean_unsw_data_fixed.csv', index=False)
+---
+📊 Sample: `clean_unsw_data.csv` (Minimal Sample Format)
+#Since I can’t attach files directly, here's a **small example dataset** you can copy into a `.csv` file:
+
+```csv
+feature1,feature2,feature3,label
+0.1,5.2,3.3,0
+0.3,4.9,2.8,0
+8.2,1.1,0.2,1
+7.9,0.5,0.1,1
+0.2,5.0,3.1,0
