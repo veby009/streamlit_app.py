@@ -1,5 +1,5 @@
 **🔐 Vishal Bhatt
-Senior IT Manager | Cloud & Infrastructure Leader | Cybersecurity Architect
+Senior IT Manager | Cloud & Infrastructure Leader | Cybersecurity Architect | #ITLeadership #Cybersecurity #DigitalTransformation #CloudComputing #InfrastructureStrategy #VMware #MicrosoftIntune #ISO27001 #SOC2 #CTO #ITManager #AzureAD #TechPortfolio
 Ahmedabad, India 🇮🇳 | veby009@gmail.com**
 
 💻 20+ years of enterprise IT leadership across cloud platforms, cybersecurity frameworks (SOC2, ISO 27001), and digital infrastructure. Passionate about secure-by-design architecture, DevSecOps, and applying machine learning for smarter threat detection.
