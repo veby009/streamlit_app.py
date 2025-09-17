@@ -97,7 +97,7 @@ infrastructure
 🔗 [LinkedIn](https://www.linkedin.com/in/vishal-bhatt-b0306718)  
 📧 veby009@gmail.com  
 📁 [Kaggle Portfolio](https://www.kaggle.com/veby009)  
-🌐 [Personal Portfolio]([https://vishalbhatt.crevado.com](https://vishal-bhatt-dsjmy.pyxl.ai/))
+🌐 [Personal Portfolio]([https://vishalbhatt.crevado.com](https://vishal-bhatt-dsjmy.pyxl.ai/)
 
 ---
 
